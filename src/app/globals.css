@@ -709,7 +709,7 @@
   .footer-template {
   background:
     linear-gradient(rgba(15, 10, 8, 0.9), rgba(15, 10, 8, 0.94)),
-    url("https://images.unsplash.com/photo-1559329007-40df8a9345d8?auto=format&fit=crop&w=1800&q=70");
+    url("/images/food/restaurant-service.webp");
   background-position: center;
   background-size: cover;
   }
@@ -981,7 +981,7 @@
   border: 1px solid rgba(201, 151, 89, 0.28);
   background:
     linear-gradient(145deg, rgba(23, 16, 13, 0.9), rgba(23, 16, 13, 0.58)),
-    url("https://images.unsplash.com/photo-1631292784640-2b24be784d5d?auto=format&fit=crop&w=900&q=80");
+    url("/images/food/makhni-gravy-pan.webp");
   background-position: center;
   background-size: cover;
   color: white;
@@ -2523,7 +2523,7 @@
     border-radius: 14px;
     background:
       linear-gradient(145deg, rgba(7, 16, 19, 0.92), rgba(7, 16, 19, 0.48)),
-      url("https://images.unsplash.com/photo-1631292784640-2b24be784d5d?auto=format&fit=crop&w=900&q=82");
+      url("/images/food/makhni-gravy-pan.webp");
     background-position: center;
     background-size: cover;
     color: white;

@@ -35,22 +35,14 @@ export function getWhatsAppHref(message?: string) {
 }
 
 export const images = {
-  hero:
-    "https://images.unsplash.com/photo-1565557623262-b51c2513a641?auto=format&fit=crop&w=2400&q=90",
-  curry:
-    "https://images.unsplash.com/photo-1585937421612-70a008356fbe?auto=format&fit=crop&w=1500&q=88",
-  gravy:
-    "https://images.unsplash.com/photo-1631292784640-2b24be784d5d?auto=format&fit=crop&w=1500&q=88",
-  sides:
-    "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=1500&q=88",
-  spices:
-    "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=1800&q=88",
-  table:
-    "https://images.unsplash.com/photo-1567188040759-fb8a883dc6d8?auto=format&fit=crop&w=1800&q=88",
-  restaurant:
-    "https://images.unsplash.com/photo-1552566626-52f8b828add9?auto=format&fit=crop&w=1800&q=88",
-  service:
-    "https://images.unsplash.com/photo-1559329007-40df8a9345d8?auto=format&fit=crop&w=1800&q=88",
+  hero: "/images/food/hero-curry-naan.webp",
+  curry: "/images/food/ready-curry-bowls.webp",
+  gravy: "/images/food/makhni-gravy-pan.webp",
+  sides: "/images/food/samosa-snacks.webp",
+  spices: "/images/food/spice-flatlay.webp",
+  table: "/images/food/restaurant-table.webp",
+  restaurant: "/images/food/dining-room.webp",
+  service: "/images/food/restaurant-service.webp",
 };
 
 export type MenuItem = {
